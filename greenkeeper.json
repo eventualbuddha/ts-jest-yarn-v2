@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        ".vscode/pnpify/typescript/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
